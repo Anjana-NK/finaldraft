@@ -30,44 +30,23 @@ Technical Details
 ------------------
 Software:
 Languages: JavaScript,HTML,CSS,Node.JS
-Tools: VS Code
-
-Project Documentation
---------------------
-
-Screenshots:
-![Screenshot1](Add screenshot 1 here)
-Shows the home screen and safety dashboard.
-
-![Screenshot2](Add screenshot 2 here)
-Demonstrates the alert system activating when danger is detected.
-
-![Screenshot3](Add screenshot 3 here)
-Displays accessible communication tools for non-verbal users.
-
+Tools: VS CodE
 Diagrams:
 --------
 <img width="681" height="1043" alt="Screenshot 2026-02-14 061506" src="https://github.com/user-attachments/assets/c85ac8eb-fb62-4cdf-8248-318fc777a17f" />
 
-Build Photos:
-![Components](Add components photo here)
-List of all hardware components.
+Project Documentation
 
-![Build](Add build process photos)
-Step-by-step assembly process.
-
-![Final](Add final product photo)
-Final assembled product.
+Screenshot/Build Photos:
+--------------------------------
+<img width="1406" height="870" alt="Screenshot 2026-02-14 074920" src="https://github.com/user-attachments/assets/be42f5e3-2903-40e4-88b5-19f2f215dd7b" />
+<img width="1621" height="911" alt="Screenshot 2026-02-14 075016" src="https://github.com/user-attachments/assets/58f7d348-5cdf-47d0-9471-52031d23070d" />
+<img width="1386" height="928" alt="Screenshot 2026-02-14 075040" src="https://github.com/user-attachments/assets/e9e8fa98-cc32-4d85-90e9-d7b3cd412839" />
 
 Project Demo
--------------
+-----------------
 
-Video:
-[Add demo video link here]
-Demonstrates the full app functionality, including alerts, audio recording, and communication tools.
-
-Additional Demos:
-[Add any extra demo materials/links]
+https://github.com/user-attachments/assets/21587343-eab0-4801-9e56-2d223176efbd
 
 Team Contributions
 ----------------------
